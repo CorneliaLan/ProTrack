@@ -1,0 +1,13 @@
+für neue Komponenten mit Angular:
+https://material.angular.io/components/table/overview
+bietet für c#, angular und ts Datein wichitge Informationen und
+Vorschläge wie etwas implementiert werden kann.
+
+Visual Studio Code Docu --> inklusive Shortcuts etc
+https://code.visualstudio.com/docs
+
+Angular Tutorial
+https://code.visualstudio.com/docs/nodejs/angular-tutorial
+
+How to run Angular 
+https://semicolon.dev/vscode/how-to-run-angular-in-visual-studio-code
